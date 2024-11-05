@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/71106599/understanding-16-byte-padding-and-function-prolog-in-x64-assembly
+https://cs.lmu.edu/~ray/notes/gasexamples/
