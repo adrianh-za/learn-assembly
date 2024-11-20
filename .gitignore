@@ -1,5 +1,7 @@
-# Ignore assembly source files
-*.s
+# This is to ignore the binary files built with no extension
+*
+!/**/
+!*.*
 
 # Ignore object files
 *.o
